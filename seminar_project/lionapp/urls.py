@@ -3,7 +3,7 @@ from django.urls import path
 from .views import LikePostView, PostLikeCountView, PostListByCommentCountView
 
 from lionapp import views
-
+###수정
 urlpatterns = [
     path('create/', views.create_post),
     path('<int:pk>/', views.get_post),

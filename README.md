@@ -1,11 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=wxxwls&animation=&fontColor=000000&fontSize=40" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 성장하는 개발자입니다. </div> 
-    </div>
-    <div align= "center">
+
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">

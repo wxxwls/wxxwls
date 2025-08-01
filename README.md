@@ -30,7 +30,7 @@
   <br>
   <div style="font-weight: 500; font-size: 15px; color: #282d33; line-height: 1.8; display: inline-block; text-align: left;">
     Inha Univ EEE🏫 (2020.03 ~ )<br>
-    Like a Lion Univ🦁 (2024.03 ~ 2024.12)<br>
+    Like Lion Univ🦁 (2024.03 ~ 2024.12)<br>
     SK AI 서비스 개발과정 SKALA 2기 (2025.07 ~ )
   </div>
 </div>

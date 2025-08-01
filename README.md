@@ -28,12 +28,11 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 About Me </h2> <br>
     <div style="font-weight: 500; font-size: 15px; text-align: center; color: #282d33; line-height: 1.6;">
-        🧑‍💼 Career: <br>
-        - OO대학교 정보통신공학과 졸업<br>
-        - 2023.03 ~ 2024.02: XX 기업 인턴 (임베디드 시스템 개발)<br>
-        - 2024.03 ~ 현재: YY 연구실 학부연구생 (AI 기반 제어 연구)<br><br>
+      
+        - Inha Univ EEE 2020.03~ <br>
+        - Like a Lion Univ 2024.03~2024.12<br>
+        - SK AI서비스 개발과정 SKALA 2기 2025.07~<br><br>
 
-        ✉️ Email: <a href="mailto:your.email@example.com" style="color:#0078D4; font-weight: bold;">your.email@example.com</a>
     </div>
 </div>
 

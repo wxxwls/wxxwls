@@ -31,7 +31,7 @@
       
         - Inha Univ EEE 2020.03~ <br>
         - Like a Lion Univ 2024.03~2024.12<br>
-        - SK AI서비스 개발과정 SKALA 2기 2025.07~<br><br>
+        - SK AI서비스 개발과정 SKALA 2기 2025.07~<br>
 
     </div>
 </div>
